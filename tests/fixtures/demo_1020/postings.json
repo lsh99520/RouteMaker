@@ -1,0 +1,156 @@
+[
+  {
+    "id": "p_a",
+    "company": "가상테크(합성)",
+    "title": "2026 하반기 백엔드 개발자 신입",
+    "deadline": "2026-12-18T17:00:00",
+    "deadline_quote": "2026.11.23(월) ~ 2026.12.18(금) 17:00",
+    "requirements": [
+      {
+        "id": "r1",
+        "type": "required",
+        "category": "degree",
+        "text": "4년제 학사 이상",
+        "source_quote": "4년제 대학 졸업(예정)자"
+      },
+      {
+        "id": "r2",
+        "type": "required",
+        "category": "language",
+        "text": "TOEIC 800점 이상",
+        "source_quote": "TOEIC 800점 이상",
+        "exam_id": "toeic",
+        "min_score": 800
+      },
+      {
+        "id": "r3",
+        "type": "preferred",
+        "category": "certificate",
+        "text": "정보처리기사 보유",
+        "source_quote": "정보처리기사 소지자 우대",
+        "exam_id": "info_engineer"
+      },
+      {
+        "id": "r4",
+        "type": "preferred",
+        "category": "certificate",
+        "text": "SQLD 보유",
+        "source_quote": "SQLD 자격 보유자 우대",
+        "exam_id": "sqld"
+      },
+      {
+        "id": "r5",
+        "type": "preferred",
+        "category": "experience",
+        "text": "클라우드 서비스 운영 경험",
+        "source_quote": "클라우드 서비스 운영 경험"
+      }
+    ],
+    "is_synthetic": true
+  },
+  {
+    "id": "p_b",
+    "company": "가상데이터(합성)",
+    "title": "데이터 분석 인턴",
+    "deadline": "2026-11-15T18:00:00",
+    "deadline_quote": "서류 마감 2026년 11월 15일 18시",
+    "requirements": [
+      {
+        "id": "r1",
+        "type": "required",
+        "category": "certificate",
+        "text": "ADsP 보유",
+        "source_quote": "ADsP 이상 자격 필수",
+        "exam_id": "adsp"
+      }
+    ],
+    "is_synthetic": true
+  },
+  {
+    "id": "p_c",
+    "company": "가상솔루션(합성)",
+    "title": "2027 상반기 데이터 엔지니어 공채",
+    "deadline": "2027-04-16T17:00:00",
+    "deadline_quote": "접수 마감: 2027년 4월 16일(금) 17:00",
+    "requirements": [
+      {
+        "id": "r1",
+        "type": "required",
+        "category": "certificate",
+        "text": "SQLD 보유",
+        "source_quote": "SQLD 자격증 소지자",
+        "exam_id": "sqld"
+      }
+    ],
+    "is_synthetic": true
+  },
+  {
+    "id": "p_d",
+    "company": "가상공사(합성)",
+    "title": "2026 하반기 신입사원 공개채용 (행정·전산)",
+    "deadline": "2026-12-04T18:00:00",
+    "deadline_quote": "접수기간: 2026.11.20(금) ~ 2026.12.04(금) 18:00",
+    "tracks": [
+      "행정",
+      "전산"
+    ],
+    "requirements": [
+      {
+        "id": "r1",
+        "type": "required",
+        "category": "language",
+        "text": "TOEIC 850점 이상",
+        "track": "행정",
+        "source_quote": "행정: 공인어학성적이 TOEIC 기준 850점 이상인 자",
+        "exam_id": "toeic",
+        "min_score": 850
+      },
+      {
+        "id": "r2",
+        "type": "required",
+        "category": "certificate",
+        "text": "정보처리기사 또는 빅데이터분석기사",
+        "track": "전산",
+        "source_quote": "전산: 정보처리기사 또는 빅데이터분석기사 자격 소지자로서",
+        "options": [
+          {
+            "name": "정보처리기사",
+            "exam_id": "info_engineer"
+          },
+          {
+            "name": "빅데이터분석기사"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "type": "required",
+        "category": "language",
+        "text": "TOEIC 700점 이상",
+        "track": "전산",
+        "source_quote": "공인어학성적이 TOEIC 기준 700점 이상인 자",
+        "exam_id": "toeic",
+        "min_score": 700
+      },
+      {
+        "id": "r4",
+        "type": "preferred",
+        "category": "certificate",
+        "text": "SQLD 또는 ADsP 보유",
+        "track": null,
+        "source_quote": "(공통) SQLD 또는 ADsP 보유자 서류전형 가점",
+        "options": [
+          {
+            "name": "SQLD",
+            "exam_id": "sqld"
+          },
+          {
+            "name": "ADsP",
+            "exam_id": "adsp"
+          }
+        ]
+      }
+    ],
+    "is_synthetic": true
+  }
+]

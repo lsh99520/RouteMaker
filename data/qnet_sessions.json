@@ -1,0 +1,159 @@
+{
+ "fetched_at": "2026-11-20T10:39:42",
+ "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털)",
+ "url": "https://apis.data.go.kr/B490007/qualExamSchd/getQualExamSchdList",
+ "log": [
+  {
+   "exam_id": "info_engineer",
+   "year": 2026,
+   "count": 6,
+   "skipped": []
+  },
+  {
+   "exam_id": "info_engineer",
+   "year": 2027,
+   "count": 0,
+   "skipped": []
+  }
+ ],
+ "sessions": [
+  {
+   "exam_id": "info_engineer",
+   "exam_name": "정보처리기사",
+   "round": "2026년 제1회",
+   "reg_start": "2026-01-24",
+   "reg_end": "2026-01-25",
+   "late_reg_end": null,
+   "exam_date": "2026-01-30",
+   "result_date": "2026-06-05",
+   "result_date_latest": null,
+   "score_valid_years": null,
+   "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털) — 국가기술자격 기사 (2026년도 제1회)",
+   "checked_at": "2026-11-20",
+   "status": "confirmed",
+   "is_synthetic": false,
+   "practical": {
+    "written_result_date": "2026-03-11",
+    "reg_start": "2026-03-23",
+    "reg_end": "2026-04-13",
+    "exam_date": "2026-04-18",
+    "exam_end": "2026-05-06"
+   }
+  },
+  {
+   "exam_id": "info_engineer",
+   "exam_name": "정보처리기사",
+   "round": "2026년 제1회",
+   "reg_start": "2026-01-12",
+   "reg_end": "2026-01-15",
+   "late_reg_end": null,
+   "exam_date": "2026-01-30",
+   "result_date": "2026-06-05",
+   "result_date_latest": null,
+   "score_valid_years": null,
+   "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털) — 국가기술자격 기사 (2026년도 제1회)",
+   "checked_at": "2026-11-20",
+   "status": "confirmed",
+   "is_synthetic": false,
+   "practical": {
+    "written_result_date": "2026-03-11",
+    "reg_start": "2026-03-23",
+    "reg_end": "2026-04-13",
+    "exam_date": "2026-04-18",
+    "exam_end": "2026-05-06"
+   }
+  },
+  {
+   "exam_id": "info_engineer",
+   "exam_name": "정보처리기사",
+   "round": "2026년 제2회",
+   "reg_start": "2026-05-03",
+   "reg_end": "2026-05-04",
+   "late_reg_end": null,
+   "exam_date": "2026-05-09",
+   "result_date": "2026-09-04",
+   "result_date_latest": null,
+   "score_valid_years": null,
+   "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털) — 국가기술자격 기사 (2026년도 제2회)",
+   "checked_at": "2026-11-20",
+   "status": "confirmed",
+   "is_synthetic": false,
+   "practical": {
+    "written_result_date": "2026-06-10",
+    "reg_start": "2026-06-22",
+    "reg_end": "2026-07-13",
+    "exam_date": "2026-07-18",
+    "exam_end": "2026-08-05"
+   }
+  },
+  {
+   "exam_id": "info_engineer",
+   "exam_name": "정보처리기사",
+   "round": "2026년 제2회",
+   "reg_start": "2026-04-20",
+   "reg_end": "2026-04-23",
+   "late_reg_end": null,
+   "exam_date": "2026-05-09",
+   "result_date": "2026-09-04",
+   "result_date_latest": null,
+   "score_valid_years": null,
+   "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털) — 국가기술자격 기사 (2026년도 제2회)",
+   "checked_at": "2026-11-20",
+   "status": "confirmed",
+   "is_synthetic": false,
+   "practical": {
+    "written_result_date": "2026-06-10",
+    "reg_start": "2026-06-22",
+    "reg_end": "2026-07-13",
+    "exam_date": "2026-07-18",
+    "exam_end": "2026-08-05"
+   }
+  },
+  {
+   "exam_id": "info_engineer",
+   "exam_name": "정보처리기사",
+   "round": "2026년 제3회",
+   "reg_start": "2026-08-01",
+   "reg_end": "2026-08-02",
+   "late_reg_end": null,
+   "exam_date": "2026-08-07",
+   "result_date": "2026-12-11",
+   "result_date_latest": null,
+   "score_valid_years": null,
+   "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털) — 국가기술자격 기사 (2026년도 제3회)",
+   "checked_at": "2026-11-20",
+   "status": "confirmed",
+   "is_synthetic": false,
+   "practical": {
+    "written_result_date": "2026-09-09",
+    "reg_start": "2026-09-21",
+    "reg_end": "2026-10-19",
+    "exam_date": "2026-10-24",
+    "exam_end": "2026-11-15"
+   }
+  },
+  {
+   "exam_id": "info_engineer",
+   "exam_name": "정보처리기사",
+   "round": "2026년 제3회",
+   "reg_start": "2026-07-20",
+   "reg_end": "2026-07-23",
+   "late_reg_end": null,
+   "exam_date": "2026-08-07",
+   "result_date": "2026-12-11",
+   "result_date_latest": null,
+   "score_valid_years": null,
+   "source": "Q-Net 국가자격 시험일정 공식 API (한국산업인력공단, 공공데이터포털) — 국가기술자격 기사 (2026년도 제3회)",
+   "checked_at": "2026-11-20",
+   "status": "confirmed",
+   "is_synthetic": false,
+   "practical": {
+    "written_result_date": "2026-09-09",
+    "reg_start": "2026-09-21",
+    "reg_end": "2026-10-19",
+    "exam_date": "2026-10-24",
+    "exam_end": "2026-11-15"
+   }
+  }
+ ]
+}

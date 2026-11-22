@@ -1,0 +1,8 @@
+file,deadline,exams_required,exams_preferred,count_required,count_preferred
+ny01.txt,2026-03-25,adsp;sqld,,,
+ny02.txt,2026-08-10,adsp;info_engineer;sqld,,,
+ny03.txt,2026-08-19,info_engineer,,,
+ny04.txt,2026-02-04,info_engineer;toeic>=700,,,
+ny05.txt,2026-06-03,info_engineer,,,
+ny06.txt,2026-11-26 14:00,,info_engineer;toeic>=800,,
+ny07.txt,2026-02-05,info_engineer,,,

@@ -1,0 +1,8 @@
+file,deadline,exams_required,exams_preferred,count_required,count_preferred
+ti01.txt,2026-09-22,info_engineer,,,
+ti02.txt,2026-08-07 17:00,toeic>=750,,,
+ti03.txt,2026-09-16,toeic>=700,,,
+ti04.txt,2026-10-07,toeic>=500,,,
+ti05.txt,2026-10-01,,,,
+ti06.txt,2026-09-02,info_engineer,,,
+ti07.txt,2026-09-22,,,,

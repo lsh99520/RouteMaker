@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+.pytest_cache/
+data/store.json
+eval/raw/
+eval/results.csv
+eval/report.md
+eval/holdout/raw/
+eval/holdout/results.csv
+eval/holdout/report.md
+out/
+qa/shots/
+docs/demo-video/source/frames/

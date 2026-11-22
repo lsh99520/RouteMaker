@@ -1,0 +1,9 @@
+pydantic>=2
+anthropic>=0.40
+fastapi
+uvicorn
+httpx
+pytest
+pypdf>=5
+olefile>=0.46
+reportlab>=4

@@ -1,0 +1,16 @@
+# 공개 제출용 저장소에서 빼는 경로 (git에 올라간 파일 기준, 앞부분 일치)
+# 정확도 측정에 쓴 실제 채용공고 원문과 AI 원본 응답
+eval/postings/
+eval/holdout/postings/
+eval/raw/
+eval/holdout/raw/
+eval/reference/ai-precheck-2026-11-19/postings/
+# 팀 내부 작업 규칙과 Notion 자동 기록(팀원 이름·Notion ID 포함)
+AGENTS.md
+CLAUDE.md
+.github/notion-authors.json
+.github/scripts/notion_log.py
+.github/workflows/notion-log.yml
+# 비밀값·실행 중 생기는 파일
+.env
+data/store.json

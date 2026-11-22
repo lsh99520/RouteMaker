@@ -1,0 +1,8 @@
+file,deadline,exams_required,exams_preferred,count_required,count_preferred
+mh01.txt,2026-11-05 18:00,info_engineer;sqld;adsp,,,
+mh02.txt,2026-10-15,info_engineer,,,
+mh03.txt,2026-11-18,info_engineer,,,
+mh04.txt,2026-10-13,info_engineer;toeic>=600;toeic>=700;toeic>=850,,,
+mh05.txt,2026-11-16,,,,
+mh06.txt,2026-10-01,,,,
+mh07.txt,없음,,,,

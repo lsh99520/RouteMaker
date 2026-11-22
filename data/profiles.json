@@ -1,0 +1,29 @@
+[
+ {
+  "id": "u1",
+  "name": "가상 지원자 A",
+  "target_job": "백엔드 개발자",
+  "holdings": [
+   {
+    "exam_id": "info_engineer",
+    "score": null,
+    "acquired_date": "2025-06-13"
+   },
+   {
+    "exam_id": "toeic",
+    "score": 750,
+    "acquired_date": "2026-03-10"
+   }
+  ],
+  "preparing": [
+   "sqld"
+  ],
+  "fixed_schedule": [
+   {
+    "title": "해외 연수",
+    "start": "2026-12-10",
+    "end": "2026-12-16"
+   }
+  ]
+ }
+]

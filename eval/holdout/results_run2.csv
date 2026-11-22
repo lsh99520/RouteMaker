@@ -1,0 +1,8 @@
+﻿file,deadline_answer,deadline_extracted,deadline_ok,required_exam_hit,required_exam_answer,required_exam_extra,required_exam_missed,preferred_exam_hit,preferred_exam_answer,preferred_exam_extra,preferred_exam_missed,required_count_answer,required_count_extracted,preferred_count_answer,preferred_count_extracted,unverified_quotes,warnings
+h01.txt,2026-04-27 23:00,2026-04-27 23:00,True,0,0,0,,2,2,0,,,5,,8,1,요건 r1 '4년제 학사 이상': 근거 문구가 원문에 없음 — 판단 보류
+h02.txt,2026-11-27,2026-11-27 23:59,True,1,1,0,,0,0,0,,,3,,3,0,
+h03.txt,2026-10-28,2026-10-28 23:59,True,3,3,0,,0,0,0,,,2,,1,0,
+h04.txt,2026-09-29,2026-09-29 23:59,True,1,1,0,,0,0,0,,,4,,0,0,
+h05.txt,2026-10-26,2026-10-26 23:59,True,0,0,0,,0,0,0,,,2,,1,0,
+h06.txt,2026-11-27,2026-11-27 23:59,True,0,0,0,,0,0,0,,,3,,0,0,
+h07.txt,없음,없음,True,0,0,0,,0,0,0,,,7,,2,0,마감일을 찾지 못함 — 직접 입력 필요

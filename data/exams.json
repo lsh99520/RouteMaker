@@ -1,0 +1,38 @@
+[
+  {
+    "exam_id": "sqld",
+    "exam_name": "SQLD(SQL 개발자)",
+    "announce_hint": "데이터자격검정 dataq.or.kr 연간 일정 공고",
+    "full_year_schedule": true,
+    "renewal_years": 2,
+    "validity_note": "합격 2년 후 보수교육을 이수하지 않으면 효력 정지",
+    "category": "certificate"
+  },
+  {
+    "exam_id": "adsp",
+    "exam_name": "ADsP(데이터분석 준전문가)",
+    "announce_hint": "데이터자격검정 dataq.or.kr 연간 일정 공고",
+    "full_year_schedule": true,
+    "category": "certificate"
+  },
+  {
+    "exam_id": "toeic",
+    "exam_name": "TOEIC",
+    "announce_hint": "YBM 한국TOEIC위원회 exam.toeic.co.kr 일정 공고",
+    "full_year_schedule": false,
+    "valid_years": 2,
+    "validity_note": "성적 유효기간: 시험일로부터 2년",
+    "category": "language",
+    "score_range": [
+      10,
+      990
+    ]
+  },
+  {
+    "exam_id": "info_engineer",
+    "exam_name": "정보처리기사",
+    "announce_hint": "큐넷 q-net.or.kr, 보통 전년도 12월 시행계획 공고",
+    "full_year_schedule": false,
+    "category": "certificate"
+  }
+]
